@@ -43,3 +43,12 @@ npm run test
 ```
 npm run dev
 ```
+
+## etape 
+
+misi fichier oe .env.sample zai io  
+de tih  ovaina DATABASE_URL=postgres://anandu:password@localhost:5432/quiz 
+
+mi creerva base de donne ao amin postgresql 
+
+DATABASE_URL=postgres://username_ny_postgresql:password@localhost:5432/nom_de_la_base_de_donnee
